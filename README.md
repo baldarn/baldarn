@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lorenzo, a fullstack web developer.
+I'm Lorenzo, software engineer.
 
 I always have been passionate about technology in every from, I feed my curiosity discovering new things every day.
 
